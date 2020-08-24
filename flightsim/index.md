@@ -17,7 +17,7 @@
   on transition to other airplanes and the operation of various airplane
   systems."
 
-  Some overlap with the PHAK, but has more detail about specific maneuvers.
+    Some overlap with the PHAK, but has more detail about specific maneuvers.
 
 ## Navigation/Charts
 
