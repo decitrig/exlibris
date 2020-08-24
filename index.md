@@ -1,3 +1,3 @@
 # Ex Libris decitrig
 
-* [Flight Simulation](/flightsim)
+* [Flight Simulation](/exlibris/flightsim)
