@@ -28,7 +28,7 @@
   * The FAA publishes [charts with just the Class B airspace boundaries](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr_class_b/) around
   airports, since sectionals are pretty cluttered.
 
-## Aircraft & 
+## Aircraft & Equipment
 
 * [Best Practices to Fly Bonanza G36](https://forums.flightsimulator.com/t/how-to-best-practices-to-fly-bonanza-g36/167175).
   It's on a MSFS forum, but the information seems generally applicable across
